@@ -1,6 +1,6 @@
-# Vidura-Voice-Assistant# 🧠 Vidura - Your Intelligent Indian Voice Assistant 🇮🇳
+# Vidura-Voice-Assistant #
 
-Vidura is an AI-powered desktop voice assistant built with Python, Gemini Pro, and Edge-TTS. It’s capable of understanding voice commands, answering questions, playing music, reading the news, and opening websites — all with a natural Indian male voice.
+Vidura is an AI-powered desktop voice assistant built with Python, Gemini Pro, and Edge-TTS. It’s capable of understanding voice commands, answering questions, playing music, reading the news, and opening websites.
 
 > 🎙️ “Namaste! How can I help you today?”
 
