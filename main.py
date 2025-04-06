@@ -8,11 +8,11 @@ import musicLibrary
 from speech_engine import speak  # Updated to use edge-tts speak()
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyCUkveVkumefvziKzFx_TYdD1FlKOB0GDs")  # Replace with your Gemini key
+genai.configure(api_key="Your API")  # Replace with your Gemini key
 model = genai.GenerativeModel(model_name="gemini-1.5-pro")
 
 recognizer = sr.Recognizer()
-newsapi = "8b8f153572284645b9517cf3d970b868"
+newsapi = "Your API"
 
 def aiProcess(command):
     try:
